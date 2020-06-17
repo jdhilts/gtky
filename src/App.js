@@ -3,7 +3,7 @@ import './App.css';
 import {Fragment} from 'react';
 //import Signin from './components/Signin';
 //import Register from './components/Register';
-import Header from './components/Header';
+import Header from './components/header/Header';
 
 function App() {
   return (
