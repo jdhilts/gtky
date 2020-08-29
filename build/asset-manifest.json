@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jdhilts/gtkystatic/css/main.d647bb4b.chunk.css",
+    "main.js": "/jdhilts/gtkystatic/js/main.db39ce7f.chunk.js",
+    "main.js.map": "/jdhilts/gtkystatic/js/main.db39ce7f.chunk.js.map",
+    "runtime-main.js": "/jdhilts/gtkystatic/js/runtime-main.19513294.js",
+    "runtime-main.js.map": "/jdhilts/gtkystatic/js/runtime-main.19513294.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/jdhilts/gtkystatic/css/2.3c03f26f.chunk.css",
+    "static/js/2.7ebbf194.chunk.js": "/jdhilts/gtkystatic/js/2.7ebbf194.chunk.js",
+    "static/js/2.7ebbf194.chunk.js.map": "/jdhilts/gtkystatic/js/2.7ebbf194.chunk.js.map",
+    "index.html": "/jdhilts/gtkyindex.html",
+    "precache-manifest.d1e23e26d9190d7678697abe16b3cf0a.js": "/jdhilts/gtkyprecache-manifest.d1e23e26d9190d7678697abe16b3cf0a.js",
+    "service-worker.js": "/jdhilts/gtkyservice-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/jdhilts/gtkystatic/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d647bb4b.chunk.css.map": "/jdhilts/gtkystatic/css/main.d647bb4b.chunk.css.map",
+    "static/js/2.7ebbf194.chunk.js.LICENSE.txt": "/jdhilts/gtkystatic/js/2.7ebbf194.chunk.js.LICENSE.txt",
+    "static/media/logo_transparent.png": "/jdhilts/gtkystatic/media/logo_transparent.1ad6b7d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19513294.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7ebbf194.chunk.js",
+    "static/css/main.d647bb4b.chunk.css",
+    "static/js/main.db39ce7f.chunk.js"
+  ]
+}
